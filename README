@@ -1,1 +1,3 @@
 kind create cluster --config cluster.yaml.yaml
+
+kind delete clusters test-terron-cluster
